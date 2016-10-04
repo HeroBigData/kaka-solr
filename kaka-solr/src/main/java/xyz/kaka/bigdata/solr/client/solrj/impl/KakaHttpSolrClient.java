@@ -10,7 +10,7 @@
 */
      
 /**   
-* @Title: TTHttpSolrClient.java 
+* @Title: KakaHttpSolrClient.java 
 * @Package xyz.taotao.search.solr.client.solrj.impl 
 * @Description: TODO(用一句话描述该文件做什么) 
 * @Company: kaka.bigdata
